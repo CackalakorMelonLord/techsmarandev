@@ -1,0 +1,180 @@
+body {
+    text-align:center;
+    background: linear-gradient(#000000 0%,#080808 100%);
+    font-family:'Kaushan Script', cursive;
+    color:white;
+}
+#header {
+    margin-top:400px;
+    color:white;
+    height:800px;
+      color:EF3E36;
+      position:relative;
+      bottom:400px;
+}
+a {
+    text-decoration:none;
+    color:white;
+}
+.line {
+  height: 6px;
+    background-color: dodgerblue;
+    width: 100px;
+    margin: 8px auto;
+}
+.menu {
+    position: fixed;
+    background-color:EF3E36;
+    width:100%;
+    margin-top:0px;
+    top:0px;
+    z-index:10;
+    color:white;
+    left:-40px;
+}
+
+.links {
+    display:inline;
+    padding-right:25px;
+    font-family:'Kaushan Script', fantasy;
+    font-size:40px;
+    color:white;
+}
+.links:hover {
+    background-color:coral;
+    font-size:42px;
+}
+#optionr {
+    font-size:15px;
+    margin:10px;
+}
+html {
+    scroll-behavior: smooth;
+}
+.img {
+    border-style:solid;
+    border-color:dodgerblue;
+    transition: transform .2s;
+    margin:50px;
+}
+.img:hover {
+    transform: scale(0.9);
+}
+.h1 {
+    font-size:50px;
+}
+p {
+    font-size:30px;
+}
+section {
+    margin:100px;
+}
+#h1head {
+    font-size:38px;
+}
+.form-control {
+    font-family:'Kaushan Script';
+    background-color:crimson;
+    color:white;
+     border-style:inherit;
+    border-color:white;
+}
+#submit {
+    border-radius:1px;
+    font-family:'Kaushan Script';
+    background-color:firebrick;
+    font-size:35px;
+}
+::placeholder {
+    color:white;
+}
+#label {
+    position:relative;
+    top:-20px;
+}
+textarea {
+    border-radius:1px;
+    font-size:30px;
+    margin:20px;
+}
+.label {
+    font-size:40px;
+}
+input {
+     font-size:30px;
+    margin:20px;
+}
+button {
+    border-style:inherit;
+    border-color:white;
+    color:white;
+}
+#img21 {
+  position:relative;
+  top:150px;
+  margin-right:900px;
+}
+.span {
+  position:relative;
+  left:0px;
+  bottom:150px;
+  color:EF3E36;
+}
+#h4 {
+  color:#00ffa2;
+  font-size:25px;
+}
+h3 {
+  font-size:30px;
+}
+.rest {
+  position:relative;
+  bottom:1000px;
+}
+#center1 {
+  background-color:#1f1f1f;
+  position: fixed;
+  width:100%;
+  margin-bottom:0px;
+  bottom:0px;
+  z-index:10;
+  color:white;
+}
+.linksbottom {
+  margin:15px;
+  display:inherit;
+  padding-right:25px;
+  font-family:'Kaushan Script', fantasy;
+  font-size:25px;
+  color:white;
+}
+.img2 {
+  position:relative;
+  top:5px;
+  right:10px;
+}
+#sh1 {
+  font-size:25px;
+  position:relative;
+  right:450px;
+}
+#nh1 {
+  font-size:25px;
+  position:relative;
+  left:85px;
+  bottom:115px;
+}
+.nspan {
+  position:relative;
+  left:280px;
+  bottom:150px;
+}
+.ul {
+  position:relative;
+  right:450px;
+}
+#ah1 {
+  position:relative;
+  bottom:120px;
+  left:50px;
+}
